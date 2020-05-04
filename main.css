@@ -1,0 +1,52 @@
+body {
+  background-color: #EAEDF4;
+  font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+h1
+{
+  color: #5F825E;
+  text-decoration: underline;
+  font-size: 2em;
+}
+h2, h3 {
+  color: #5F825E;
+  font-size: 1.5em;
+}
+
+.preamble {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 1em;
+
+}
+.explanation {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 1em;
+
+}
+.participation {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 1em;
+}
+.benefits {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 1em;
+}
+.requirements {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+  font-size: 1em;
+}
